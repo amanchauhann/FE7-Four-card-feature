@@ -99,7 +99,7 @@ section{
 
 .box>img{
     max-width: fit-content;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     /* margin-left: 22rem; */
 }
 
